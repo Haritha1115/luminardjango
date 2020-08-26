@@ -1,0 +1,18 @@
+num1 = int(input("enter the first number: "))
+num2 = int(input("enter the second number: "))
+print("result of addition:", num1 + num2)
+print("result of subtraction :", num1 - num2)
+print("result of multiply :", num1 * num2)
+print("result of division :", num1 / num2)
+print("result of modulus", num1 % num2)
+print("result of power", num1 ** num2)
+# bollean
+print("result of and :", num1 & num2)
+print('result of or :', num1 | num2)
+print('result of xor :', num1 ^ num2)
+# relational
+print("using >:", num1 > num2)
+print("using < :", num1 < num2)
+print("using >= :", num1 >= num2)
+print("using <= :", num1 <= num2)
+print(" using ==", num1 == num2)
