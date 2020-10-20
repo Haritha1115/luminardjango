@@ -1,0 +1,46 @@
+clone -> paste
+the one who create the project will push
+other developer will pull it to their oc to work on that
+
+
+in git there are many m/o areas
+local storage : on our computer/machine
+stagingarea:
+local reprository:
+remoter respository:github vala
+
+
+
+AFTER CREATE THE ACOOUNT
+copy THAT GREEN CODE
+go to the desired location
+
+right click git bash here
+git clone"copy that link(repopath)" press enter
+git clone "copy that link" press enter
+seen something as unpacking ..in black screen
+
+purpose of clone :remote repository -> local repository
+
+next to create a file and to push to the remote repository
+
+local storage -> staging area             git add -A
+staging area -> local repository          git commit"pass some msg"
+local repository -> remote repository     git push
+
+clone is for remote repo -> local storage
+
+now  paste the old file tpo the local area luminardjango
+then on repository(luminardjango)  git dash here  black screen will be opened
+
+git status
+git add -A
+git commit"myfirst commit"
+if u r suing first then give in global user id /: any valid mail
+enter
+username vala copy kar give ur name in double quotes
+again give git commit " xyz "
+git push 
+
+
+
